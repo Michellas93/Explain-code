@@ -1,0 +1,16 @@
+/* Apply to all buttons */
+button {
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+  background-color: #e6eaef;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: #0062cc;
+}
